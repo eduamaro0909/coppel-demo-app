@@ -1,0 +1,17 @@
+*.pyc
+__pycache__/
+instance/
+.webassets-cache
+.env
+.venv
+venv/
+ENV/
+env/
+*.pyo
+*.pyd
+.Python
+*.sqlite3
+*.db
+*.log
+*.pot
+*.mo
