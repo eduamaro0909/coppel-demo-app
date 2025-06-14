@@ -1,5 +1,5 @@
 
-# Coppel Day
+# Sample repo AWS Community Day
 
 ## Description
 
